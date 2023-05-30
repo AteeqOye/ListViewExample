@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+
+    <string-array name="countries">
+        <item>Pakistan</item>
+        <item>China</item>
+        <item>India</item>
+        <item>New</item>
+        <item>England</item>
+        <item>Iran</item>
+        <item>Turkey</item>
+        <item>South Africa</item>
+        <item>UAE</item>
+        <item>Qatar</item>
+        <item>AUS</item>
+        <item>WS</item>
+        <item>PSL</item>
+        <item>IPL</item>
+        <item>Sargodha</item>
+        <item>Lhr</item>
+        <item>Islamabad</item>
+    </string-array>
+</resources>
